@@ -1,4 +1,4 @@
-import 'package:esercizio_flutter/bloc/api_status.dart';
+import 'package:esercizio_flutter/bloc/palette/api/api_status.dart';
 import 'package:esercizio_flutter/model/color_palette.dart';
 
 class ColorpaletteState {

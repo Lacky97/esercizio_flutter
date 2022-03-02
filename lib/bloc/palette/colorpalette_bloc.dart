@@ -1,8 +1,8 @@
 // ignore_for_file: avoid_print
 
 import 'package:bloc/bloc.dart';
-import 'package:esercizio_flutter/bloc/api_repository.dart';
-import 'package:esercizio_flutter/bloc/api_status.dart';
+import 'package:esercizio_flutter/bloc/palette/api/api_repository.dart';
+import 'package:esercizio_flutter/bloc/palette/api/api_status.dart';
 import 'package:esercizio_flutter/bloc/palette/colorpalette_event.dart';
 import 'package:esercizio_flutter/bloc/palette/colorpalette_state.dart';
 

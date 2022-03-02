@@ -1,4 +1,4 @@
-import 'package:esercizio_flutter/bloc/api_status.dart';
+import 'package:esercizio_flutter/bloc/palette/api/api_status.dart';
 import 'package:esercizio_flutter/bloc/palette/colorpalette_bloc.dart';
 import 'package:esercizio_flutter/bloc/palette/colorpalette_state.dart';
 import 'package:esercizio_flutter/bloc/palette/colorpalette_event.dart';
